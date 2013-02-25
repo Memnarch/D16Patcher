@@ -39,6 +39,7 @@ uses
   VersionCompare, PatcherVersion;
 
 {$R *.dfm}
+{$R StarterManifest.res}
 
 { TPatcherForm }
 
